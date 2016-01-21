@@ -120,7 +120,7 @@ Files for Weather Box:
 
 Pix = Photographs of Weather Box.
 
-STLFiles = the 3D STL format files for printing the Weather Box enclosure
+STLFiles = the 3D STL format files for printing the Weather Box enclosure: https://github.com/How2-Oh/weather-box/files/99459/STLFiles.zip
 
 Code = the Arduino IDE INO code for programming the ATtiny85
 
