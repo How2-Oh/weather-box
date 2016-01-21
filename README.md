@@ -118,7 +118,7 @@ Your Weather Box is now ready for use.
 
 Files for Weather Box:
 
-Pix = Photographs of Weather Box.
+Pix = Photographs of Weather Box: https://github.com/How2-Oh/weather-box/files/99517/Pix.zip
 
 STLFiles = the 3D STL format files for printing the Weather Box enclosure: https://github.com/How2-Oh/weather-box/files/99459/STLFiles.zip
 
