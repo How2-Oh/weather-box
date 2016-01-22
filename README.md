@@ -122,6 +122,8 @@ Pix = Photographs of Weather Box: https://github.com/How2-Oh/weather-box/files/9
 
 STLFiles = the 3D STL format files for printing the Weather Box enclosure: https://github.com/How2-Oh/weather-box/files/99459/STLFiles.zip
 
+See also: Thingiverse for STL files = thingiverse.com/thing:1283908
+
 Code = the Arduino IDE INO code for programming the ATtiny85: https://github.com/How2-Oh/weather-box/files/99512/Code.zip
 
 Readme.md = this file
